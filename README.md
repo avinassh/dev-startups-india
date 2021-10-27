@@ -7,7 +7,6 @@ List of Indian startups working on building developer tools.
 - Last9
 - Postman
 - Signoz
-- Wingify
 
 ## Contributing
 
