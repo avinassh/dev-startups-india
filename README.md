@@ -13,4 +13,4 @@ List of Indian startups working on building developer tools.
 
 ## Contributing
 
-Feel to send a PR! The product must be aimed at developers.
+Feel free to send a PR! The product must be aimed at developers.
