@@ -1,5 +1,3 @@
-# Hard Tech India
-
 List of Indian startups working on building developer tools. 
 
 - Browserstack
