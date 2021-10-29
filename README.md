@@ -1,12 +1,15 @@
 List of Indian startups working on building developer tools. 
 
-- Browserstack
-- Deepsource
-- Dgraph
-- Hasura
-- Last9
-- Postman
-- Signoz
+| Name  | Description | Open Source  | Remote |
+| ------------- | ------------- | ------------- | ------------- |
+| Browserstack  |   |   |   |
+| Deepsource  |   |   | ✅  |
+| Dgraph  |   | ✅  | ✅  |
+| Hasura  |   | ✅  | ✅  |
+| Last9  |   |   | ✅  |
+| Postman  |   |   |   |
+| Signoz  |   | ✅  |   |
+
 
 ## Contributing
 
